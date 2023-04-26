@@ -1,0 +1,148 @@
+.titulo{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.nombre-app{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    padding: 16px;
+    text-align: center;
+}
+
+.texto-descriptivo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.titulo-tarea{
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.descripcion-tarea{
+    font-weight: bold;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.entrada-datos{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 18px;
+    text-align: left;
+    width: 380px;
+    border-radius: 2px;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-button{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding: 12px 64px;
+    text-align: center;
+    border-radius: 5px; 
+    box-shadow: 0px 3px 5px 2px rgb(13 21 44 / 25%);
+}
+
+
+.botones-lista{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 64px 320px 320px 180px;
+}
+
+.modificar-button{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 32px ;
+    text-align: center;
+    border-radius: 5px; 
+    box-shadow: 0px 3px 5px 2px rgb(13 21 44 / 10%);
+}
+
+
+.eliminar-button{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 32px ;
+    text-align: center;
+    border-radius: 5px; 
+    box-shadow: 0px 3px 5px 2px rgb(13 21 44 / 10%);
+}
+
+.boton-check{
+    transform: scale(3.2);
+}
+
+.edicion-tarea {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-right: 270px;
+}
+
+.edicion-descripcion {
+    margin-top: 24px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-right: 216px;
+}
+
+.contenedor-lista-modificacion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.entrada-datos-modificados {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2px;
+    margin-bottom: 24px;
+    padding: 20px;
+    font-size: 16px;
+    text-align: left;
+    width: 460px;
+    border-radius: 2px;
+}
+
+.guardar-boton {
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 40px ;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+    box-shadow: 0px 3px 5px 2px rgb(13 21 44 / 10%);
+}
+
